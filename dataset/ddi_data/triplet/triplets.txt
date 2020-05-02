@@ -1,0 +1,2370 @@
+DDI-MedLine.d62.s4
+Using in situ hybridization, we observed that DRUGA caused a rapid and transient dose-dependent increase in arc mRNA level in the striatum and cortex that was abolished by pretreatment with the specific dopamine D1 receptor antagonist DRUGB but not by an DRUGN DRUGN.
+METH	drug	SCH-23390	drug_n
+true
+
+DDI-MedLine.d62.s4
+Using in situ hybridization, we observed that DRUGA caused a rapid and transient dose-dependent increase in arc mRNA level in the striatum and cortex that was abolished by pretreatment with the specific dopamine D1 receptor antagonist DRUGN but not by an DRUGN DRUGB.
+METH	drug	clozapine	drug
+false
+
+DDI-MedLine.d125.s7
+However, administration of DRUGA (90 mg kg(-1) body weight) to rats 2 hours prior to DRUGN (100 mg kg(-1) body weight) was ineffective in preventing DRUGB synthesis and did not diminish fluoride or citrate accumulation in vivo.
+4-methylpyrazole	drug	(-)-erythro-fluorocitrate	drug_n
+false
+
+
+
+DDI-MedLine.d110.s6
+Both DRUGA and DRUGN block DRUGB-induced and DRUGN-induced dopamine release in the nucleus accumbens;
+ibogaine	drug_n	morphine	drug
+true
+
+DDI-MedLine.d110.s6
+Both DRUGA and DRUGB block DRUGN-induced and DRUGN-induced dopamine release in the nucleus accumbens;
+ibogaine	drug_n	18-MC	drug_n
+false
+
+DDI-MedLine.d28.s7
+The DRUGN (DRUGN and DRUGA), a new class of oral DRUGB, are "insulin sensitizers"
+pioglitazone	drug	antidiabetic agents	group
+false
+
+
+
+DDI-MedLine.d110.s6
+Both DRUGA and DRUGN block DRUGN-induced and DRUGB-induced dopamine release in the nucleus accumbens;
+ibogaine	drug_n	nicotine	drug
+true
+
+DDI-MedLine.d110.s6
+Both DRUGA and DRUGB block DRUGN-induced and DRUGN-induced dopamine release in the nucleus accumbens;
+ibogaine	drug_n	18-MC	drug_n
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGA, DRUGN/DRUGN, DRUGB/DRUGN, DRUGB/DRUGN, DRUGN/DRUGN, DRUGA/DRUGN, and DRUGN/DRUGB.
+theophylline	drug	phenobarbital	drug
+false
+
+
+
+DDI-MedLine.d110.s6
+Both DRUGN and DRUGA block DRUGB-induced and DRUGN-induced dopamine release in the nucleus accumbens;
+18-MC	drug_n	morphine	drug
+true
+
+DDI-MedLine.d110.s6
+Both DRUGN and DRUGN block DRUGA-induced and DRUGB-induced dopamine release in the nucleus accumbens;
+morphine	drug	nicotine	drug
+false
+
+DDI-MedLine.d132.s4
+Both DRUGN and DRUGN have been compared to triple therapy with the DRUGA DRUGB over 48 weeks as initial therapy, with similar responses being observed with DRUGN regimens and superiority observed with DRUGN.
+PI	group	indinavir	drug
+false
+
+
+
+DDI-MedLine.d110.s6
+Both DRUGN and DRUGA block DRUGN-induced and DRUGB-induced dopamine release in the nucleus accumbens;
+18-MC	drug_n	nicotine	drug
+true
+
+DDI-MedLine.d110.s6
+Both DRUGN and DRUGN block DRUGA-induced and DRUGB-induced dopamine release in the nucleus accumbens;
+morphine	drug	nicotine	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGN, DRUGA, DRUGN, and DRUGB (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGN, DRUGA, DRUGN, and DRUGB with DRUGN plus DRUGN) without receiving DRUGN therapy.
+doxorubicin	drug	prednisone	drug
+false
+
+
+
+DDI-MedLine.d110.s9
+DRUGA attenuates, but DRUGN potentiates, the acute locomotor effects of DRUGB;
+Ibogaine	drug_n	morphine	drug
+true
+
+DDI-MedLine.d110.s9
+DRUGA attenuates, but DRUGB potentiates, the acute locomotor effects of DRUGN;
+Ibogaine	drug_n	18-MC	drug_n
+false
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGA tolerance in dogs anesthetized with DRUGN, DRUGN Vet, or DRUGN, the dosage of DRUGB needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGB, with DRUGN or DRUGN than with DRUGN.
+digitalis	group	ouabain	drug
+false
+
+
+
+DDI-MedLine.d110.s9
+DRUGN attenuates, but DRUGA potentiates, the acute locomotor effects of DRUGB;
+18-MC	drug_n	morphine	drug
+true
+
+DDI-MedLine.d110.s9
+DRUGA attenuates, but DRUGB potentiates, the acute locomotor effects of DRUGN;
+Ibogaine	drug_n	18-MC	drug_n
+false
+
+DDI-MedLine.d30.s1
+The behavioral effects of the stereoisomers of DRUGN (DRUGA) were compared with those of DRUGN (DRUGB) in pigeons and squirrel monkeys responding under a multiple fixed-interval fixed-ratio (FI FR) schedule of food presentation.
+NANM	drug_n	PCP	drug_n
+false
+
+
+
+DDI-MedLine.d106.s6
+DRUGA and DRUGN should not be administered to patients receiving DRUGB.
+Barbiturates	group	coumarin drugs	group
+true
+
+DDI-MedLine.d106.s6
+DRUGA and DRUGB should not be administered to patients receiving DRUGN.
+Barbiturates	group	glutethimide	drug
+false
+
+DDI-MedLine.d28.s7
+The DRUGN (DRUGA and DRUGB), a new class of oral DRUGN, are "insulin sensitizers"
+rosiglitazone	drug	pioglitazone	drug
+false
+
+
+
+DDI-MedLine.d106.s6
+DRUGN and DRUGA should not be administered to patients receiving DRUGB.
+glutethimide	drug	coumarin drugs	group
+true
+
+DDI-MedLine.d106.s6
+DRUGA and DRUGB should not be administered to patients receiving DRUGN.
+Barbiturates	group	glutethimide	drug
+false
+
+DDI-MedLine.d106.s1
+The intensity, uniformity and time course of DRUGN interference by DRUGN, DRUGA, DRUGN, DRUGN and DRUGN were systematically investigated in 16 patients receiving DRUGB therapy.
+secobarbital	drug	coumarin	group
+false
+
+
+
+DDI-MedLine.d106.s8
+DRUGA and DRUGN interact pharmacologically with orally administered DRUGB, but the effect is not clinically significant.
+Chloral hydrate	drug	anticoagulant agents	group
+true
+
+DDI-MedLine.d106.s8
+DRUGA and DRUGB interact pharmacologically with orally administered DRUGN, but the effect is not clinically significant.
+Chloral hydrate	drug	methaqualone	drug
+false
+
+DDI-MedLine.d118.s3
+While additional research is needed, the initial clinical data in kidney recipients suggest that DRUGN, in combination with DRUGB or DRUGA, might have the potential to reduce the frequency of rejection episodes, permit reductions in DRUGB or DRUGA dosage, and permit steroid withdrawal (Kelly, 1999).
+tacrolimus	drug	cyclosporine	drug
+false
+
+
+
+DDI-MedLine.d106.s8
+DRUGN and DRUGA interact pharmacologically with orally administered DRUGB, but the effect is not clinically significant.
+methaqualone	drug	anticoagulant agents	group
+true
+
+DDI-MedLine.d106.s8
+DRUGA and DRUGB interact pharmacologically with orally administered DRUGN, but the effect is not clinically significant.
+Chloral hydrate	drug	methaqualone	drug
+false
+
+DDI-MedLine.d118.s0
+DRUGA: mammalian target of DRUGB inhibitor to prevent kidney rejection.
+Sirolimus	drug	rapamycin	drug
+false
+
+
+
+DDI-MedLine.d79.s1
+Concurrent administration of DRUGA and DRUGB significantly reduces the level of exposure to DRUGA, but it is unclear how soon after DRUGB administration DRUGA may be given safely.
+indinavir	drug	didanosine	drug
+true
+
+DDI-MedLine.d79.s1
+Concurrent administration of DRUGA and DRUGB significantly reduces the level of exposure to DRUGA, but it is unclear how soon after DRUGB administration DRUGA may be given safely.
+indinavir	drug	didanosine	drug
+false
+
+DDI-MedLine.d5.s1
+Interactions between treatments with DRUGN, DRUGA (an DRUGN), DRUGB (an DRUGN), and DRUGN (an inducer of microsomal enzymes) were investigated in sheep.
+bishydroxycoumarin	drug	trichlorfon	drug_n
+false
+
+
+
+DDI-MedLine.d133.s0
+Suppression by DRUGA of DRUGB-enhanced peritoneal metastasis of intestinal adenocarcinomas induced by DRUGN in wistar rats.
+verapamil	drug	bombesin	drug_n
+true
+
+DDI-MedLine.d133.s0
+Suppression by DRUGN of DRUGA-enhanced peritoneal metastasis of intestinal adenocarcinomas induced by DRUGB in wistar rats.
+bombesin	drug_n	azoxymethane	drug_n
+false
+
+DDI-MedLine.d9.s5
+by the nonlinear kinetic characteristics for DRUGA and DRUGN (and probably for DRUGB, as well) and the derivative implications for decreased dosing frequency requirements;
+verapamil	drug	nifedipine	drug
+false
+
+
+
+DDI-MedLine.d36.s2
+We report the case of an adolescent with altered consciousness caused by DRUGA overdose with a positive DRUGB level to alert clinicians to the cross-reactivity of DRUGA with a toxicology screen for DRUGBs.
+carbamazepine	drug	tricyclic antidepressant	group
+true
+
+DDI-MedLine.d36.s2
+We report the case of an adolescent with altered consciousness caused by DRUGN overdose with a positive DRUGA level to alert clinicians to the cross-reactivity of DRUGN with a toxicology screen for DRUGAs.
+tricyclic antidepressant	group	tricyclic antidepressants	group
+false
+
+DDI-MedLine.d127.s6
+Concomitantly given DRUGA did not interfere with the absorption of a tablet of DRUGB.
+thiazide diuretics	group	digoxin	drug
+false
+
+
+
+DDI-MedLine.d36.s2
+We report the case of an adolescent with altered consciousness caused by DRUGA overdose with a positive DRUGN level to alert clinicians to the cross-reactivity of DRUGA with a toxicology screen for DRUGB.
+carbamazepine	drug	tricyclic antidepressants	group
+true
+
+DDI-MedLine.d36.s2
+We report the case of an adolescent with altered consciousness caused by DRUGA overdose with a positive DRUGN level to alert clinicians to the cross-reactivity of DRUGA with a toxicology screen for DRUGN.
+carbamazepine	drug	carbamazepine	drug
+false
+
+DDI-MedLine.d21.s6
+DRUGN (5 mg/kg), DRUGA (30 mg/kg), DRUGN (0.25 mg/kg), DRUGN (20 mg/kg) DRUGB (30 mg/kg) or vehicle was administered.
+moclobemide	drug	sertraline	drug
+false
+
+
+
+DDI-MedLine.d126.s0
+DRUGA-induced oxidative stress in rat brain and liver is prevented by DRUGB or DRUGN.
+Cypermethrin	drug	vitamin E	drug
+true
+
+DDI-MedLine.d126.s0
+DRUGN-induced oxidative stress in rat brain and liver is prevented by DRUGA or DRUGB.
+vitamin E	drug	allopurinol	drug
+false
+
+DDI-MedLine.d94.s17
+Compromised DRUGA uptake-1 in functional class IV cannot be further increased by DRUGN and DRUGB.
+norepinephrine	drug	desipramine	drug
+false
+
+
+
+DDI-MedLine.d126.s0
+DRUGA-induced oxidative stress in rat brain and liver is prevented by DRUGN or DRUGB.
+Cypermethrin	drug	allopurinol	drug
+true
+
+DDI-MedLine.d126.s0
+DRUGN-induced oxidative stress in rat brain and liver is prevented by DRUGA or DRUGB.
+vitamin E	drug	allopurinol	drug
+false
+
+DDI-MedLine.d130.s3
+To determine whether injection of DRUGA would permit larger doses of DRUGB to be administered, a fixed 9.9-g/m2 dose of DRUGA was given intravenously over three hours concurrently with escalating doses of DRUGB.
+thiosulfate	drug	cisplatin	drug
+false
+
+
+
+DDI-MedLine.d126.s6
+Pretreatment of rats with DRUGA (100 mg/kg, ip) or DRUGN (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral DRUGB administration within 4 h.
+allopurinol	drug	cypermethrin	drug
+true
+
+DDI-MedLine.d126.s6
+Pretreatment of rats with DRUGA (100 mg/kg, ip) or DRUGB (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral DRUGN administration within 4 h.
+allopurinol	drug	Vitamin E	drug
+false
+
+DDI-MedLine.d76.s1
+The purpose of this study was to evaluate the effect of DRUGN (DRUGA) and DRUGB (DRUGN) conjugates on the intestinal permeation of DRUGN (DRUGN) and model peptide drugs, DRUGN and DRUGN.
+NaCMC	drug_n	carboxymethylcellulose-cysteine	drug_n
+false
+
+
+
+DDI-MedLine.d126.s6
+Pretreatment of rats with DRUGN (100 mg/kg, ip) or DRUGA (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral DRUGB administration within 4 h.
+Vitamin E	drug	cypermethrin	drug
+true
+
+DDI-MedLine.d126.s6
+Pretreatment of rats with DRUGA (100 mg/kg, ip) or DRUGB (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral DRUGN administration within 4 h.
+allopurinol	drug	Vitamin E	drug
+false
+
+DDI-MedLine.d68.s0
+[The effect of DRUGN on the renal excretion of DRUGA and DRUGB in dogs]
+The intravenous injection of DRUGN in a dose of 20 mg/kg enhanced DRUGAe and DRUGB excretion in chronic canine experiments.
+verografin	drug	iodamide	drug
+false
+
+
+
+DDI-MedLine.d126.s7
+Thus, the results suggest that DRUGA exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by DRUGB and DRUGN.
+cypermethrin	drug	allopurinol	drug
+true
+
+DDI-MedLine.d126.s7
+Thus, the results suggest that DRUGN exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by DRUGA and DRUGB.
+allopurinol	drug	Vitamin E	drug
+false
+
+DDI-MedLine.d63.s6
+Intraventricular injection of DRUGN at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular DRUGA and DRUGB.
+beta-endorphin	drug_n	morphine	drug
+false
+
+
+
+DDI-MedLine.d126.s7
+Thus, the results suggest that DRUGA exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by DRUGN and DRUGB.
+cypermethrin	drug	Vitamin E	drug
+true
+
+DDI-MedLine.d126.s7
+Thus, the results suggest that DRUGN exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by DRUGA and DRUGB.
+allopurinol	drug	Vitamin E	drug
+false
+
+DDI-MedLine.d79.s1
+Concurrent administration of DRUGB and DRUGA significantly reduces the level of exposure to DRUGB, but it is unclear how soon after DRUGA administration DRUGB may be given safely.
+didanosine	drug	indinavir	drug
+false
+
+
+
+DDI-MedLine.d8.s6
+When combined with DRUGA, DRUGB exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGN (or DRUGN) and DRUGA.
+ofloxacin	drug	KRM-1648	drug_n
+true
+
+DDI-MedLine.d8.s6
+When combined with DRUGA, DRUGN exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGN (or DRUGN) and DRUGA.
+ofloxacin	drug	ofloxacin	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGN, DRUGN, DRUGN, and DRUGA (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGN, DRUGN, DRUGN, and DRUGA with DRUGN plus DRUGB) without receiving DRUGN therapy.
+prednisone	drug	bleomycin	drug
+false
+
+
+
+DDI-MedLine.d8.s6
+When combined with DRUGB, DRUGN exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGA (or DRUGN) and DRUGB.
+rifampicin	drug	ofloxacin	drug
+true
+
+DDI-MedLine.d8.s6
+When combined with DRUGB, DRUGA exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGN (or DRUGN) and DRUGB.
+KRM-1648	drug_n	ofloxacin	drug
+false
+
+DDI-MedLine.d113.s3
+In addition to this pharmacological interaction, this report describes a novel chemical reaction between DRUGA (a DRUGB) and DRUGN under acidic conditions similar to those found in vivo, resulting in a 3-ethoxylated product.
+temazepam	drug	benzodiazepine	group
+false
+
+
+
+DDI-MedLine.d8.s6
+When combined with DRUGB, DRUGN exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGN (or DRUGA) and DRUGB.
+rifabutin	drug	ofloxacin	drug
+true
+
+DDI-MedLine.d8.s6
+When combined with DRUGA, DRUGN exhibited strong synergistic activity while only additive effects were observed with the combination of DRUGN (or DRUGB) and DRUGA.
+ofloxacin	drug	rifabutin	drug
+false
+
+DDI-MedLine.d111.s2
+DRUGN, DRUGN, DRUGN, DRUGA, DRUGB, and DRUGN were added to pooled human serum at therapeutic concentrations.
+quinidine	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d47.s4
+DRUGA may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either DRUGB or DRUGN.
+Buforin II	drug_n	azithromycin	drug
+true
+
+DDI-MedLine.d47.s4
+DRUGN may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either DRUGA or DRUGB.
+azithromycin	drug	minocycline	drug
+false
+
+DDI-MedLine.d83.s13
+In comparison with DRUGN, the adverse events reported significantly more frequently with DRUGB in > or = 3.5% of patients were dry mouth, bodyweight gain and increased appetite and compared with DRUGA, only bodyweight gain occurred significantly more frequently with DRUGB.
+risperidone	drug	olanzapine	drug
+false
+
+
+
+DDI-MedLine.d47.s4
+DRUGA may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either DRUGN or DRUGB.
+Buforin II	drug_n	minocycline	drug
+true
+
+DDI-MedLine.d47.s4
+DRUGN may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either DRUGA or DRUGB.
+azithromycin	drug	minocycline	drug
+false
+
+DDI-MedLine.d76.s1
+The purpose of this study was to evaluate the effect of DRUGN (DRUGN) and DRUGN (DRUGA) conjugates on the intestinal permeation of DRUGB (DRUGN) and model peptide drugs, DRUGN and DRUGN.
+CMC-Cys	drug_n	sodium fluorescein	drug
+false
+
+
+
+DDI-MedLine.d16.s5
+The half-life of DRUGA in plasma and brain was longer in the presence of DRUGB than when DRUGA was given alone.
+ketamine	drug	halothane	drug
+true
+
+DDI-MedLine.d16.s5
+The half-life of DRUGB in plasma and brain was longer in the presence of DRUGA than when DRUGB was given alone.
+halothane	drug	ketamine	drug
+false
+
+DDI-MedLine.d85.s1
+Because the DRUGA DRUGB is given exclusively by the oral route in man, we have carried out studies in mice on the antitumour activity, acute toxicity and pharmacokinetics of oral DRUGB, either alone or in combination with the chemosensitizer DRUGN.
+nitrosourea	group	CCNU	drug
+false
+
+
+
+DDI-MedLine.d116.s3
+The concomitant administration of DRUGA and DRUGB resulted in the need for an unusually high maintenance dose of DRUGB (20 mg per day) in order to produce a therapeutic effect.
+rifampin	drug	warfarin	drug
+true
+
+DDI-MedLine.d116.s3
+The concomitant administration of DRUGN and DRUGA resulted in the need for an unusually high maintenance dose of DRUGA (20 mg per day) in order to produce a therapeutic effect.
+warfarin	drug	warfarin	drug
+false
+
+DDI-MedLine.d110.s2
+Like DRUGN (40 mg/kg), DRUGA (40 mg/kg) decreases the intravenous self-administration of DRUGN and DRUGN and the oral self-administration of DRUGB and DRUGN in rats;
+18-MC	drug_n	ethanol	drug
+false
+
+
+
+DDI-MedLine.d116.s6
+The effect of DRUGA on the DRUGB requirement of our patient appeared to be maximal 5 to 7 days after the initiation of DRUGA and extended a similar length of time after DRUGA withdrawal.
+rifampin	drug	warfarin	drug
+true
+
+DDI-MedLine.d116.s6
+The effect of DRUGA on the DRUGN requirement of our patient appeared to be maximal 5 to 7 days after the initiation of DRUGA and extended a similar length of time after DRUGA withdrawal.
+rifampin	drug	rifampin	drug
+false
+
+DDI-MedLine.d11.s4
+This article looks at five commonly used DRUGA in turn (DRUGB, DRUGN, DRUGN, DRUGN, DRUGN), discussing the main, non-infection, unwanted effects, ways to avoid them and what to do if problems arise.
+immunosuppressive drugs	group	corticosteroids	group
+false
+
+
+
+DDI-MedLine.d3.s7
+DRUGA significantly increased the area under the curve at steady state (AUC(ss)) of DRUGB by 2.93-fold and the AUC(ss) of 25-O-desacetylDRUGB by 13.3-fold.
+Amprenavir	drug	rifabutin	drug
+true
+
+DDI-MedLine.d3.s7
+DRUGN significantly increased the area under the curve at steady state (AUC(ss)) of DRUGA by 2.93-fold and the AUC(ss) of 25-O-desacetylDRUGA by 13.3-fold.
+rifabutin	drug	25-O-desacetylrifabutin	drug_n
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGN, DRUGN, DRUGN, and DRUGA (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGN, DRUGN, DRUGN, and DRUGA with DRUGN plus DRUGN) without receiving DRUGB therapy.
+prednisone	drug	antiretroviral	group
+false
+
+
+
+DDI-MedLine.d3.s7
+DRUGA significantly increased the area under the curve at steady state (AUC(ss)) of DRUGN by 2.93-fold and the AUC(ss) of DRUGB by 13.3-fold.
+Amprenavir	drug	25-O-desacetylrifabutin	drug_n
+true
+
+DDI-MedLine.d3.s7
+DRUGN significantly increased the area under the curve at steady state (AUC(ss)) of DRUGA by 2.93-fold and the AUC(ss) of 25-O-desacetylDRUGA by 13.3-fold.
+rifabutin	drug	25-O-desacetylrifabutin	drug_n
+false
+
+DDI-MedLine.d88.s0
+The effects of DRUGN, DRUGA and DRUGB on bar-press behavior in normal and genetically nervous dogs.
+amphetamine	drug	cocaine	drug
+false
+
+
+
+DDI-MedLine.d3.s8
+DRUGA significantly decreased the AUC(ss) of DRUGB by 82%, but DRUGB had no effect on DRUGN pharmacokinetics.
+Rifampin	drug	amprenavir	drug
+true
+
+DDI-MedLine.d3.s8
+DRUGN significantly decreased the AUC(ss) of DRUGA by 82%, but DRUGA had no effect on DRUGN pharmacokinetics.
+amprenavir	drug	amprenavir	drug
+false
+
+DDI-MedLine.d54.s3
+In the present study, evoked potentials were recorded at 5, 20, and 40 min following IP injections of saline, DRUGA (2.0 g/kg), DRUGB (0.6 mg/kg) or DRUGN (15.0 mg/kg) on separate days.
+ethanol	drug	physostigmine	drug
+false
+
+
+
+DDI-MedLine.d3.s14
+DRUGA significantly decreases clearance of DRUGB and 25-O-desacetylDRUGB, and the combination is poorly tolerated.
+Amprenavir	drug	rifabutin	drug
+true
+
+DDI-MedLine.d3.s14
+DRUGN significantly decreases clearance of DRUGA and 25-O-desacetylDRUGA, and the combination is poorly tolerated.
+rifabutin	drug	25-O-desacetylrifabutin	drug_n
+false
+
+DDI-MedLine.d30.s1
+The behavioral effects of the stereoisomers of DRUGN (DRUGA) were compared with those of DRUGB (DRUGN) in pigeons and squirrel monkeys responding under a multiple fixed-interval fixed-ratio (FI FR) schedule of food presentation.
+NANM	drug_n	phencyclidine	drug_n
+false
+
+
+
+DDI-MedLine.d3.s14
+DRUGA significantly decreases clearance of DRUGN and DRUGB, and the combination is poorly tolerated.
+Amprenavir	drug	25-O-desacetylrifabutin	drug_n
+true
+
+DDI-MedLine.d3.s14
+DRUGN significantly decreases clearance of DRUGA and 25-O-desacetylDRUGA, and the combination is poorly tolerated.
+rifabutin	drug	25-O-desacetylrifabutin	drug_n
+false
+
+DDI-MedLine.d99.s8
+Plasma was analyzed for DRUGA, and urine was analyzed for DRUGA and its two metabolites, 4-hydroxyDRUGA and carboxyDRUGA by means of HPLC.
+tolbutamide	drug	4-hydroxytolbutamide	drug_n
+false
+
+
+
+DDI-MedLine.d125.s6
+Prior administration of DRUGA (90 mg kg(-1) body weight) was shown to prevent the conversion of DRUGB (100 mg kg(-1) body weight) to DRUGN in vivo and to eliminate the fluoride and citrate elevations seen in DRUGB-intoxicated animals.
+4-methylpyrazole	drug	1,3-difluoro-2-propanol	drug_n
+true
+
+DDI-MedLine.d125.s6
+Prior administration of DRUGN (90 mg kg(-1) body weight) was shown to prevent the conversion of DRUGA (100 mg kg(-1) body weight) to DRUGB in vivo and to eliminate the fluoride and citrate elevations seen in DRUGA-intoxicated animals.
+1,3-difluoro-2-propanol	drug_n	(-)-erythro-fluorocitrate	drug_n
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGN, DRUGA, DRUGN, and DRUGN (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGN, DRUGA, DRUGB, and DRUGN with DRUGN plus DRUGN) without receiving DRUGN therapy.
+doxorubicin	drug	teniposide	drug
+false
+
+
+
+DDI-MedLine.d125.s8
+We conclude that the prophylactic and antidotal properties of DRUGA seen in animals treated with DRUGB derive from its capacity to inhibit the NAD+-dependent oxidation responsible for converting DRUGB to DRUGN in the committed step of the toxic pathway.
+4-methylpyrazole	drug	1,3-difluoro-2-propanol	drug_n
+true
+
+DDI-MedLine.d125.s8
+We conclude that the prophylactic and antidotal properties of DRUGN seen in animals treated with DRUGA derive from its capacity to inhibit the NAD+-dependent oxidation responsible for converting DRUGA to DRUGN in the committed step of the toxic pathway.
+1,3-difluoro-2-propanol	drug_n	1,3-difluoro-2-propanol	drug_n
+false
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGN with DRUGN, DRUGA with DRUGN, and DRUGB with DRUGA at high to toxic concentrations decreases the binding of the target drug.
+phenobarbital	drug	valproic acid	drug
+false
+
+
+
+DDI-MedLine.d86.s5
+RESULTS: The geometric mean (90% confidence interval) whole blood DRUGA area under the plasma concentration time-curve increased 60% (35%-90%), from 736 to 1178 ng x h/mL, and maximum concentration increased 43% (14%-81%), from 67 to 96 ng/mL, with DRUGB coadministration, whereas the mean elimination half-life of DRUGA decreased slightly, from 79 to 67 hours.
+sirolimus	drug	diltiazem	drug
+true
+
+DDI-MedLine.d86.s5
+RESULTS: The geometric mean (90% confidence interval) whole blood DRUGB area under the plasma concentration time-curve increased 60% (35%-90%), from 736 to 1178 ng x h/mL, and maximum concentration increased 43% (14%-81%), from 67 to 96 ng/mL, with DRUGA coadministration, whereas the mean elimination half-life of DRUGB decreased slightly, from 79 to 67 hours.
+diltiazem	drug	sirolimus	drug
+false
+
+DDI-MedLine.d62.s4
+Using in situ hybridization, we observed that DRUGN caused a rapid and transient dose-dependent increase in arc mRNA level in the striatum and cortex that was abolished by pretreatment with the specific dopamine D1 receptor antagonist DRUGA but not by an DRUGB DRUGN.
+SCH-23390	drug_n	atypical neuroleptic	group
+false
+
+
+
+DDI-MedLine.d86.s6
+Apparent oral clearance and volume of distribution of DRUGA decreased with 38% and 45%, respectively, when DRUGA was given with DRUGB.
+sirolimus	drug	diltiazem	drug
+true
+
+DDI-MedLine.d86.s6
+Apparent oral clearance and volume of distribution of DRUGA decreased with 38% and 45%, respectively, when DRUGA was given with DRUGB.
+sirolimus	drug	diltiazem	drug
+false
+
+DDI-MedLine.d115.s0
+Concomitant DRUGA, DRUGN, DRUGB, and DRUGN chemotherapy plus DRUGN therapy in patients with human immunodeficiency virus-related, non-Hodgkin lymphoma.
+cyclophosphamide	drug	vincristine	drug
+false
+
+
+
+DDI-MedLine.d86.s8
+CONCLUSIONS: Single-dose DRUGA coadministration leads to higher DRUGB exposure, presumably by inhibition of the first-pass metabolism of DRUGB.
+diltiazem	drug	sirolimus	drug
+true
+
+DDI-MedLine.d86.s8
+CONCLUSIONS: Single-dose DRUGA coadministration leads to higher DRUGB exposure, presumably by inhibition of the first-pass metabolism of DRUGB.
+diltiazem	drug	sirolimus	drug
+false
+
+DDI-MedLine.d115.s0
+Concomitant DRUGA, DRUGN, DRUGB, and DRUGN chemotherapy plus DRUGN therapy in patients with human immunodeficiency virus-related, non-Hodgkin lymphoma.
+cyclophosphamide	drug	vincristine	drug
+false
+
+
+
+DDI-MedLine.d86.s9
+Because of the pronounced intersubject variability in the extent of the DRUGA-DRUGB interaction, whole blood DRUGA concentrations should be monitored closely in patients treated with the two drugs.
+sirolimus	drug	diltiazem	drug
+true
+
+DDI-MedLine.d86.s9
+Because of the pronounced intersubject variability in the extent of the DRUGB-DRUGA interaction, whole blood DRUGB concentrations should be monitored closely in patients treated with the two drugs.
+diltiazem	drug	sirolimus	drug
+false
+
+DDI-MedLine.d53.s3
+In the experiments reported here, we examined the interactions between DRUGA and the DRUGN DRUGN (DRUGB), which also induces apoptosis in MCF-7 cells.
+1,25(OH)2D3	drug	TAM	drug_n
+false
+
+
+
+DDI-MedLine.d87.s1
+DRUGA is a novel peripherally restricted DRUGB antagonist that may selectively prevent DRUGB-induced gastrointestinal effects without reversing analgesia.
+ADL-8-2698	drug	opioid	group
+true
+
+DDI-MedLine.d87.s1
+DRUGN is a novel DRUGA that may selectively prevent DRUGB-induced gastrointestinal effects without reversing analgesia.
+peripherally restricted opioid antagonist	group	opioid	group
+false
+
+DDI-MedLine.d111.s2
+DRUGN, DRUGN, DRUGA, DRUGN, DRUGB, and DRUGN were added to pooled human serum at therapeutic concentrations.
+phenobarbital	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGA inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGB, DRUGN, DRUGN, DRUGN).
+Macrolide antibiotics	group	atorvastatin	drug
+true
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGN inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGN, DRUGA, DRUGB, DRUGN).
+cerivastatin	drug	lovastatin	drug
+false
+
+DDI-MedLine.d11.s4
+This article looks at five commonly used DRUGN in turn (DRUGA, DRUGN, DRUGB, DRUGN, DRUGN), discussing the main, non-infection, unwanted effects, ways to avoid them and what to do if problems arise.
+corticosteroids	group	azathioprine	drug
+false
+
+
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGA inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGN, DRUGB, DRUGN, DRUGN).
+Macrolide antibiotics	group	cerivastatin	drug
+true
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGN inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGN, DRUGA, DRUGB, DRUGN).
+cerivastatin	drug	lovastatin	drug
+false
+
+DDI-MedLine.d134.s1
+An intravenous dose of 50 mg DRUGN was in respect of competitive suppression of organs actively concentrating DRUGA as effective as intravenous 1000 mg ClO-4- simultaneously or 1000 mg orally 30 min before the injection of radioDRUGA.
+pertechnetate	drug	radiopertechnetate	drug
+false
+
+
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGA inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGN, DRUGN, DRUGB, DRUGN).
+Macrolide antibiotics	group	lovastatin	drug
+true
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGN inhibit the metabolism of DRUGA that are metabolized by CYP3A4 (i.e., DRUGN, DRUGN, DRUGN, DRUGB).
+HMG-CoA reductase inhibitors	group	simvastatin	drug
+false
+
+DDI-MedLine.d119.s2
+It is structurally distinct from the other currently available DRUGN (DRUGA, DRUGN, and DRUGB), leading to unique biopharmaceutical properties relative to the other agents of this class.
+lovastatin	drug	pravastatin	drug
+false
+
+
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGA inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGN, DRUGN, DRUGN, DRUGB).
+Macrolide antibiotics	group	simvastatin	drug
+true
+
+DDI-MedLine.d25.s12
+CONCLUSIONS: DRUGN inhibit the metabolism of DRUGN that are metabolized by CYP3A4 (i.e., DRUGA, DRUGN, DRUGN, DRUGB).
+atorvastatin	drug	simvastatin	drug
+false
+
+DDI-MedLine.d67.s1
+The influence of DRUGN and DRUGA on antinociceptive effect of DRUGB (10 mg/kg), DRUGN (500 mg/kg) and DRUGN (10 mg/kg) was investigated in a mouse model using the tail-flick and hot-plate tests.
+diazepam	drug	morphine	drug
+false
+
+
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGA with DRUGB, DRUGN with DRUGA, and DRUGN with DRUGN at high to toxic concentrations decreases the binding of the target drug.
+acetaminophen	drug	theophylline	drug
+true
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGA with DRUGN, DRUGN with DRUGA, and DRUGB with DRUGN at high to toxic concentrations decreases the binding of the target drug.
+acetaminophen	drug	valproic acid	drug
+false
+
+DDI-MedLine.d58.s3
+In this study we investigated the effect of DRUGN on high threshold voltage-dependent Ca(2+) channel subtypes using their DRUGA DRUGN (L-type), DRUGB (N-type), or DRUGN (P-type) in bovine chromaffin cells.
+selective Ca(2+) channel blockers	group	omega-conotoxin GVIA	drug_n
+false
+
+
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGB with DRUGN, DRUGA with DRUGB, and DRUGN with DRUGA at high to toxic concentrations decreases the binding of the target drug.
+phenobarbital	drug	acetaminophen	drug
+true
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGA with DRUGN, DRUGB with DRUGA, and DRUGN with DRUGB at high to toxic concentrations decreases the binding of the target drug.
+acetaminophen	drug	phenobarbital	drug
+false
+
+DDI-MedLine.d95.s8
+In DRUGA-precontracted arteries from dietary-obese rats, responses to DRUGB were not attenuated by endothelial denudation, indicating an action independent of the endothelium.
+noradrenaline	drug	resveratrol	drug_n
+false
+
+
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGN with DRUGN, DRUGB with DRUGN, and DRUGA with DRUGB at high to toxic concentrations decreases the binding of the target drug.
+valproic acid	drug	phenobarbital	drug
+true
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGA with DRUGN, DRUGN with DRUGA, and DRUGB with DRUGN at high to toxic concentrations decreases the binding of the target drug.
+acetaminophen	drug	valproic acid	drug
+false
+
+DDI-MedLine.d57.s2
+Those for which effectiveness is reported includes DRUGN, DRUGN, DRUGN, DRUGN, DRUGN, DRUGN, DRUGA, and DRUGB.
+methdilazine	drug	tripelennamine	drug
+false
+
+
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGA and DRUGN when administered concomitantly with an intravenous DRUGB such as DRUGN.
+trovafloxacin	drug	opiate	group
+true
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGN and DRUGN when administered concomitantly with an intravenous DRUGA such as DRUGB.
+opiate	group	morphine	drug
+false
+
+DDI-MedLine.d131.s1
+The aim of this paper was to study the interaction between DRUGA and both DRUGB or its synthetic analogue DRUGN, or DRUGN, on the antinonciceptive effect of these peptides in mice after intracisternal injection.
+neurotensin	drug_n	enkephalins	drug_n
+false
+
+
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGA and DRUGN when administered concomitantly with an intravenous DRUGN such as DRUGB.
+trovafloxacin	drug	morphine	drug
+true
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGN and DRUGN when administered concomitantly with an intravenous DRUGA such as DRUGB.
+opiate	group	morphine	drug
+false
+
+DDI-MedLine.d100.s5
+DRUGA, such as DRUGN, DRUGB and DRUGN, inhibit platelet activation in vitro, and decrease platelet adhesion intravascularly.
+Slow-channel calcium blockers	group	diltiazem	drug
+false
+
+
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGN and DRUGA when administered concomitantly with an intravenous DRUGB such as DRUGN.
+ciprofloxacin	drug	opiate	group
+true
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGA and DRUGB when administered concomitantly with an intravenous DRUGN such as DRUGN.
+trovafloxacin	drug	ciprofloxacin	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGA, DRUGN/DRUGN, DRUGN/DRUGN, DRUGN/DRUGB, DRUGN/DRUGN, DRUGA/DRUGN, and DRUGB/DRUGN.
+theophylline	drug	valproic acid	drug
+false
+
+
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGN and DRUGA when administered concomitantly with an intravenous DRUGN such as DRUGB.
+ciprofloxacin	drug	morphine	drug
+true
+
+DDI-MedLine.d124.s1
+Previous studies have demonstrated a significant reduction in the oral bioavailability of DRUGN and DRUGN when administered concomitantly with an intravenous DRUGA such as DRUGB.
+opiate	group	morphine	drug
+false
+
+DDI-MedLine.d68.s0
+[The effect of DRUGN on the renal excretion of DRUGN and DRUGA in dogs]
+The intravenous injection of DRUGN in a dose of 20 mg/kg enhanced DRUGB and DRUGA excretion in chronic canine experiments.
+iodamide	drug	verografine	drug
+false
+
+
+
+DDI-MedLine.d105.s7
+DRUGA had no significant impact on the Cmax and AUC of DRUGB, although it significantly decreased the DRUGB tmax by 44% and increased the intracellular exposure to phosphorylated DRUGB by 110%.
+Azithromycin	drug	zidovudine	drug
+true
+
+DDI-MedLine.d105.s7
+DRUGA had no significant impact on the Cmax and AUC of DRUGB, although it significantly decreased the DRUGB tmax by 44% and increased the intracellular exposure to phosphorylated DRUGB by 110%.
+Azithromycin	drug	zidovudine	drug
+false
+
+DDI-MedLine.d67.s1
+The influence of DRUGA and DRUGN on antinociceptive effect of DRUGN (10 mg/kg), DRUGN (500 mg/kg) and DRUGB (10 mg/kg) was investigated in a mouse model using the tail-flick and hot-plate tests.
+midazolam	drug	indomethacin	drug
+false
+
+
+
+DDI-MedLine.d105.s7
+DRUGA had no significant impact on the Cmax and AUC of DRUGB, although it significantly decreased the DRUGB tmax by 44% and increased the intracellular exposure to phosphorylated DRUGB by 110%.
+Azithromycin	drug	zidovudine	drug
+true
+
+DDI-MedLine.d105.s7
+DRUGN had no significant impact on the Cmax and AUC of DRUGA, although it significantly decreased the DRUGA tmax by 44% and increased the intracellular exposure to phosphorylated DRUGA by 110%.
+zidovudine	drug	zidovudine	drug
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGN--an analog of the octapeptide cholecystokinin--of DRUGA binding after the long-term administration of DRUGN]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGN (0.25 mg/kg) and DRUGN (0.25 mg/kg) resulted in the reduced interaction between DRUGA and low affinity binding sites for DRUGB in subcortical structures, whereas DRUGA binding with high affinity binding sites for DRUGB increased both in the frontal cortex and subcortical structures of the forebrain.
+3H-spiroperidol	drug_n	apomorphine	drug
+false
+
+
+
+DDI-MedLine.d67.s5
+DRUGA at doses of 0.25 mg/kg and 2.5 mg/kg injected with DRUGB was found to decrease the antinociceptive effect of DRUGB.
+Diazepam	drug	morphine	drug
+true
+
+DDI-MedLine.d67.s5
+DRUGA at doses of 0.25 mg/kg and 2.5 mg/kg injected with DRUGB was found to decrease the antinociceptive effect of DRUGB.
+Diazepam	drug	morphine	drug
+false
+
+DDI-MedLine.d87.s2
+Gastrointestinal transit time (lactulose hydrogen breath test) was measured in 14 volunteers with oral and intravenous placebo, oral placebo and intravenous DRUGB (0.05 mg x kg(-1)), and oral DRUGA (4 mg) and intravenous DRUGB (0.05 mg x kg(-1)) in a double blind, cross-over study.
+ADL 8-2698	drug	morphine	drug
+false
+
+
+
+DDI-MedLine.d67.s6
+Similarly, DRUGA decreased the antinociceptive effect of DRUGB (only in the tail-flick test) and DRUGN.
+diazepam	drug	metamizol	drug
+true
+
+DDI-MedLine.d67.s6
+Similarly, DRUGN decreased the antinociceptive effect of DRUGA (only in the tail-flick test) and DRUGB.
+metamizol	drug	indomethacin	drug
+false
+
+DDI-MedLine.d39.s3
+The serum estrogen concentrations of DRUGA + DRUGB-treated rats decreased by 50%, while those of the DRUGB-treated rats increased (2- to 5-fold).
+estradiol	drug	endotoxin	drug_n
+false
+
+
+
+DDI-MedLine.d67.s6
+Similarly, DRUGA decreased the antinociceptive effect of DRUGN (only in the tail-flick test) and DRUGB.
+diazepam	drug	indomethacin	drug
+true
+
+DDI-MedLine.d67.s6
+Similarly, DRUGN decreased the antinociceptive effect of DRUGA (only in the tail-flick test) and DRUGB.
+metamizol	drug	indomethacin	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGA, DRUGN/DRUGN, DRUGB/DRUGN, DRUGB/DRUGN, DRUGN/DRUGN, DRUGA/DRUGN, and DRUGN/DRUGB.
+theophylline	drug	phenobarbital	drug
+false
+
+
+
+DDI-MedLine.d67.s7
+DRUGA used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGB, DRUGN (only in the tail-flick test) and DRUGN.
+Midazolam	drug	morphine	drug
+true
+
+DDI-MedLine.d67.s7
+DRUGN used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGA, DRUGN (only in the tail-flick test) and DRUGB.
+morphine	drug	indomethacin	drug
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGA--an analog of the octapeptide cholecystokinin--of DRUGN binding after the long-term administration of DRUGN]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGB (0.25 mg/kg) and DRUGN (0.25 mg/kg) resulted in the reduced interaction between DRUGN and low affinity binding sites for DRUGN in subcortical structures, whereas DRUGN binding with high affinity binding sites for DRUGN increased both in the frontal cortex and subcortical structures of the forebrain.
+cerulein	drug_n	haloperidol	drug
+false
+
+
+
+DDI-MedLine.d67.s7
+DRUGA used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGN, DRUGB (only in the tail-flick test) and DRUGN.
+Midazolam	drug	metamizol	drug
+true
+
+DDI-MedLine.d67.s7
+DRUGN used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGA, DRUGB (only in the tail-flick test) and DRUGN.
+morphine	drug	metamizol	drug
+false
+
+DDI-MedLine.d83.s6
+In contrast, preliminary results from an 8-week controlled study suggested DRUGA 2 to 6 mg/day was superior to DRUGB 5 to 20 mg/day against positive and anxiety/depressive symptoms (p < 0.05), although consistent with the first study, both agents demonstrated similar efficacy on measures of overall psychopathology.
+risperidone	drug	olanzapine	drug
+false
+
+
+
+DDI-MedLine.d67.s7
+DRUGA used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGN, DRUGN (only in the tail-flick test) and DRUGB.
+Midazolam	drug	indomethacin	drug
+true
+
+DDI-MedLine.d67.s7
+DRUGN used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of DRUGA, DRUGB (only in the tail-flick test) and DRUGN.
+morphine	drug	metamizol	drug
+false
+
+DDI-MedLine.d68.s0
+[The effect of DRUGN on the renal excretion of DRUGN and DRUGB in dogs]
+The intravenous injection of DRUGN in a dose of 20 mg/kg enhanced DRUGA and DRUGB excretion in chronic canine experiments.
+verografine	drug	iodamide	drug
+false
+
+
+
+DDI-MedLine.d102.s6
+Endothelium-intact aortic rings from high-DRUGA rats were supersensitive to DRUGB when compared to vehicle-, DRUGN- and DRUGN + high-DRUGA-treated rats (pD2 values = 7.77+/-0.12, 7.21+/-0.13, 6.93+/-0.04 and 7.22+/-0.18, respectively).
+estradiol	drug	noradrenaline	drug
+true
+
+DDI-MedLine.d102.s6
+Endothelium-intact aortic rings from high-DRUGA rats were supersensitive to DRUGN when compared to vehicle-, DRUGN- and DRUGN + high-DRUGA-treated rats (pD2 values = 7.77+/-0.12, 7.21+/-0.13, 6.93+/-0.04 and 7.22+/-0.18, respectively).
+estradiol	drug	estradiol	drug
+false
+
+DDI-MedLine.d2.s0
+Failure of DRUGA to modify DRUGB induced hypertension in sheep.
+neomycin	drug	ACTH	group
+false
+
+
+
+DDI-MedLine.d1.s5
+DRUGA is contraindicated in patients using DRUGB or who may need to use DRUGN, because the combination may cause a sharp fall of the blood pressure.
+Sildenafil	drug	long-acting nitrates	group
+true
+
+DDI-MedLine.d1.s5
+DRUGN is contraindicated in patients using DRUGA or who may need to use DRUGB, because the combination may cause a sharp fall of the blood pressure.
+long-acting nitrates	group	short-acting nitrates	group
+false
+
+DDI-MedLine.d112.s3
+therefore, the use of DRUGA does not necessitate an adjustment in DRUGB dose to maintain therapeutic DRUGB levels.
+dofetilide	drug	digoxin	drug
+false
+
+
+
+DDI-MedLine.d1.s5
+DRUGA is contraindicated in patients using DRUGN or who may need to use DRUGB, because the combination may cause a sharp fall of the blood pressure.
+Sildenafil	drug	short-acting nitrates	group
+true
+
+DDI-MedLine.d1.s5
+DRUGN is contraindicated in patients using DRUGA or who may need to use DRUGB, because the combination may cause a sharp fall of the blood pressure.
+long-acting nitrates	group	short-acting nitrates	group
+false
+
+DDI-MedLine.d53.s9
+These data emphasize that apoptosis can be induced in MCF-7 cells either by activation of DRUGA-mediated signalling or disruption of DRUGB-dependent signalling.
+vitamin-D	group	estrogen	group
+false
+
+
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGN tolerance in dogs anesthetized with DRUGA, DRUGN Vet, or DRUGN, the dosage of DRUGB needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGB, with DRUGA or DRUGN than with DRUGN.
+ketamine	drug	ouabain	drug
+true
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGN tolerance in dogs anesthetized with DRUGN, DRUGA, or DRUGN, the dosage of DRUGB needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGB, with DRUGN or DRUGN than with DRUGN.
+Innovar Vet	brand	ouabain	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGN, DRUGA/DRUGB, DRUGN/DRUGN, DRUGN/DRUGN, DRUGB/DRUGA, DRUGN/DRUGN, and DRUGN/DRUGN.
+lidocaine	drug	quinidine	drug
+false
+
+
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGN tolerance in dogs anesthetized with DRUGN, DRUGA, or DRUGN, the dosage of DRUGB needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGB, with DRUGN or DRUGN than with DRUGN.
+Innovar Vet	brand	ouabain	drug
+true
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGN tolerance in dogs anesthetized with DRUGN, DRUGA, or DRUGB, the dosage of DRUGN needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGN, with DRUGN or DRUGN than with DRUGB.
+Innovar Vet	brand	pentobarbital	drug
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGA--an analog of the octapeptide cholecystokinin--of DRUGN binding after the long-term administration of DRUGB]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGN (0.25 mg/kg) and DRUGN (0.25 mg/kg) resulted in the reduced interaction between DRUGN and low affinity binding sites for DRUGN in subcortical structures, whereas DRUGN binding with high affinity binding sites for DRUGN increased both in the frontal cortex and subcortical structures of the forebrain.
+cerulein	drug_n	neuroleptics	group
+false
+
+
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGN tolerance in dogs anesthetized with DRUGN, DRUGN Vet, or DRUGA, the dosage of DRUGB needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGB, with DRUGN or DRUGN than with DRUGA.
+pentobarbital	drug	ouabain	drug
+true
+
+DDI-MedLine.d23.s1
+In a comparison of DRUGA tolerance in dogs anesthetized with DRUGB, DRUGN Vet, or DRUGN, the dosage of DRUGN needed to cause ventricular tachycardia was significantly higher, as was the LD50 of DRUGN, with DRUGB or DRUGN than with DRUGN.
+digitalis	group	ketamine	drug
+false
+
+DDI-MedLine.d83.s18
+CONCLUSIONS: DRUGA demonstrated superior antipsychotic efficacy compared with DRUGB in the treatment of acute phase schizophrenia, and in the treatment of some patients with first-episode or treatment-resistant schizophrenia.
+Olanzapine	drug	haloperidol	drug
+false
+
+
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGA was generally converted to sinus rhythm following administration of DRUGB, DRUGN, or DRUGN but not after administration of DRUGN alone or after DRUGN.
+ouabain	drug	Innovar	brand
+true
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGN was generally converted to sinus rhythm following administration of DRUGN, DRUGA, or DRUGB but not after administration of DRUGN alone or after DRUGN.
+ketamine	drug	droperidol	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGB, DRUGN/DRUGN, DRUGA/DRUGN, DRUGA/DRUGN, DRUGN/DRUGN, DRUGB/DRUGN, and DRUGN/DRUGA.
+phenobarbital	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGA was generally converted to sinus rhythm following administration of DRUGN, DRUGB, or DRUGN but not after administration of DRUGN alone or after DRUGN.
+ouabain	drug	ketamine	drug
+true
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGN was generally converted to sinus rhythm following administration of DRUGN, DRUGN, or DRUGN but not after administration of DRUGA alone or after DRUGB.
+fentayl	drug	pentobarbital	drug
+false
+
+DDI-MedLine.d34.s1
+The effects of supplementary oral DRUGN and DRUGN, as well as the interaction between both at the absorption site, fecal and urinary excretion as well as the retention of these trace elements were determined by using four diets containing either 9 or 63 micrograms/kg of DRUGA and 48 or 446 mg/kg of DRUGB over a period of 19 days in a total of 24 rats.
+Co	drug	Fe	drug
+false
+
+
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGA was generally converted to sinus rhythm following administration of DRUGN, DRUGN, or DRUGB but not after administration of DRUGN alone or after DRUGN.
+ouabain	drug	droperidol	drug
+true
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGA was generally converted to sinus rhythm following administration of DRUGN, DRUGN, or DRUGN but not after administration of DRUGN alone or after DRUGB.
+ouabain	drug	pentobarbital	drug
+false
+
+DDI-MedLine.d81.s0
+Hypothermia as an index of the DRUGA-DRUGB reaction in the rat.
+disulfiram	drug	ethanol	drug
+false
+
+
+
+DDI-MedLine.d29.s2
+(1968, 1970), the higher serum concentrations of DRUGA and DRUGN reached after administration of DRUGB are due not only to slower renal elimination but also to an altered distribution in the body.
+penicillins	group	probenecid	drug
+true
+
+DDI-MedLine.d29.s2
+(1968, 1970), the higher serum concentrations of DRUGA and DRUGB reached after administration of DRUGN are due not only to slower renal elimination but also to an altered distribution in the body.
+penicillins	group	cephaloridine	drug
+false
+
+DDI-MedLine.d104.s8
+In order to examine some molecular mechanisms of DRUGA-induced behavioral changes, Northern blot analysis of total RNA from prefrontal cortical tissues of mice treated with DRUGA, DRUGB, and DRUGN was carried out.
+PCP	drug_n	DCG-IV	drug_n
+false
+
+
+
+DDI-MedLine.d29.s2
+(1968, 1970), the higher serum concentrations of DRUGN and DRUGA reached after administration of DRUGB are due not only to slower renal elimination but also to an altered distribution in the body.
+cephaloridine	drug	probenecid	drug
+true
+
+DDI-MedLine.d29.s2
+(1968, 1970), the higher serum concentrations of DRUGA and DRUGB reached after administration of DRUGN are due not only to slower renal elimination but also to an altered distribution in the body.
+penicillins	group	cephaloridine	drug
+false
+
+DDI-MedLine.d114.s1
+The effects of DRUGN (DRUGN) on DRUGA (DRUGB)-induced responses were studied in rat bone marrow megakaryocytes with the patch-clamp whole-cell recording technique in combination with fura-2 microfluorometry.
+inositol 1,4,5-trisphosphate	drug_n	InsP(3)	drug_n
+false
+
+
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGA (1 mg/kg) removes the antiedematous action of DRUGB, DRUGN, DRUGN and DRUGN and reduces the action of DRUGN.
+picrotoxin	drug_n	diazepam	drug
+true
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGN, DRUGA, DRUGN and DRUGN and reduces the action of DRUGB.
+phenazepam	drug_n	phentolamine	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGA, DRUGN, DRUGN, and DRUGN (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGA, DRUGN, DRUGN, and DRUGN with DRUGN plus DRUGN) without receiving DRUGB therapy.
+cyclophosphamide	drug	antiretroviral	group
+false
+
+
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGA (1 mg/kg) removes the antiedematous action of DRUGN, DRUGB, DRUGN and DRUGN and reduces the action of DRUGN.
+picrotoxin	drug_n	phenazepam	drug_n
+true
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGN, DRUGA, DRUGN and DRUGB and reduces the action of DRUGN.
+phenazepam	drug_n	amizyl	drug_n
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGN, DRUGN/DRUGA, DRUGB/DRUGN, DRUGB/DRUGN, DRUGA/DRUGN, DRUGN/DRUGN, and DRUGN/DRUGB.
+quinidine	drug	phenobarbital	drug
+false
+
+
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGA (1 mg/kg) removes the antiedematous action of DRUGN, DRUGN, DRUGB and DRUGN and reduces the action of DRUGN.
+picrotoxin	drug_n	phenibut	drug_n
+true
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGA, DRUGN, DRUGB and DRUGN and reduces the action of DRUGN.
+diazepam	drug	phenibut	drug_n
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGN--an analog of the octapeptide cholecystokinin--of DRUGN binding after the long-term administration of DRUGN]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGN (0.25 mg/kg) and DRUGA (0.25 mg/kg) resulted in the reduced interaction between DRUGN and low affinity binding sites for DRUGB in subcortical structures, whereas DRUGN binding with high affinity binding sites for DRUGB increased both in the frontal cortex and subcortical structures of the forebrain.
+pyreneperone	drug_n	apomorphine	drug
+false
+
+
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGA (1 mg/kg) removes the antiedematous action of DRUGN, DRUGN, DRUGN and DRUGB and reduces the action of DRUGN.
+picrotoxin	drug_n	amizyl	drug_n
+true
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGN, DRUGA, DRUGN and DRUGN and reduces the action of DRUGB.
+phenazepam	drug_n	phentolamine	drug
+false
+
+DDI-MedLine.d84.s3
+To investigate the effects of antimicrobial combinations of DRUGN with four kinds of DRUGN (DRUGA, DRUGB, DRUGN and DRUGN), the fractional inhibitory concentration index (FICI) was determined by checkerboard assay for each strain.
+ampicillin	drug	cefazolin	drug
+false
+
+
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGA (1 mg/kg) removes the antiedematous action of DRUGN, DRUGN, DRUGN and DRUGN and reduces the action of DRUGB.
+picrotoxin	drug_n	phentolamine	drug
+true
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGN, DRUGN, DRUGA and DRUGN and reduces the action of DRUGB.
+phenibut	drug_n	phentolamine	drug
+false
+
+DDI-MedLine.d63.s7
+The results indicate that a spinal DRUGN-sensitive endorphinergic system is involved in the production of DRUGA but not DRUGB-induced tail-flick inhibition, and suggest that intraventricular DRUGA and DRUGB elicit their pharmacological actions via the activation of different descending pain inhibitory systems;
+beta-endorphin	drug_n	morphine	drug
+false
+
+
+
+DDI-MedLine.d56.s5
+When DRUGA was applied to the muscle in the presence of DRUGB, both first and second contractile responses to DRUGN were abolished.
+ouabain	drug	phentolamine	drug
+true
+
+DDI-MedLine.d56.s5
+When DRUGN was applied to the muscle in the presence of DRUGA, both first and second contractile responses to DRUGB were abolished.
+phentolamine	drug	PTX	drug_n
+false
+
+DDI-MedLine.d110.s4
+Both DRUGA and DRUGN ameliorate DRUGB withdrawal signs.
+ibogaine	drug_n	opioid	group
+false
+
+
+
+DDI-MedLine.d63.s4
+Intrathecal injection of DRUGA at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of DRUGB, and a high dose of DRUGA (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular DRUGB (16 micrograms).
+naloxone	drug	beta-endorphin	drug_n
+true
+
+DDI-MedLine.d63.s4
+Intrathecal injection of DRUGN at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of DRUGA, and a high dose of DRUGN (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular DRUGA (16 micrograms).
+beta-endorphin	drug_n	beta-endorphin	drug_n
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGA--an analog of the octapeptide cholecystokinin--of DRUGB binding after the long-term administration of DRUGN]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGN (0.25 mg/kg) and DRUGN (0.25 mg/kg) resulted in the reduced interaction between DRUGB and low affinity binding sites for DRUGN in subcortical structures, whereas DRUGB binding with high affinity binding sites for DRUGN increased both in the frontal cortex and subcortical structures of the forebrain.
+cerulein	drug_n	3H-spiroperidol	drug_n
+false
+
+
+
+DDI-MedLine.d63.s4
+Intrathecal injection of DRUGA at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of DRUGB, and a high dose of DRUGA (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular DRUGB (16 micrograms).
+naloxone	drug	beta-endorphin	drug_n
+true
+
+DDI-MedLine.d63.s4
+Intrathecal injection of DRUGA at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of DRUGB, and a high dose of DRUGA (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular DRUGB (16 micrograms).
+naloxone	drug	beta-endorphin	drug_n
+false
+
+DDI-MedLine.d137.s1
+AIMS/HYPOTHESIS: There is evidence that DRUGA and DRUGB cause renal and ocular vasodilation.
+insulin	drug	glucose	drug
+false
+
+
+
+DDI-MedLine.d63.s6
+Intraventricular injection of DRUGA at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular DRUGB and DRUGN.
+naloxone	drug	beta-endorphin	drug_n
+true
+
+DDI-MedLine.d63.s6
+Intraventricular injection of DRUGN at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular DRUGA and DRUGB.
+beta-endorphin	drug_n	morphine	drug
+false
+
+DDI-MedLine.d5.s1
+Interactions between treatments with DRUGA, DRUGN (an DRUGN), DRUGB (an DRUGN), and DRUGN (an inducer of microsomal enzymes) were investigated in sheep.
+coumaphos	drug_n	trichlorfon	drug_n
+false
+
+
+
+DDI-MedLine.d63.s6
+Intraventricular injection of DRUGA at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular DRUGN and DRUGB.
+naloxone	drug	morphine	drug
+true
+
+DDI-MedLine.d63.s6
+Intraventricular injection of DRUGN at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular DRUGA and DRUGB.
+beta-endorphin	drug_n	morphine	drug
+false
+
+DDI-MedLine.d67.s1
+The influence of DRUGN and DRUGN on antinociceptive effect of DRUGA (10 mg/kg), DRUGB (500 mg/kg) and DRUGN (10 mg/kg) was investigated in a mouse model using the tail-flick and hot-plate tests.
+morphine	drug	metamizol	drug
+false
+
+
+
+DDI-MedLine.d73.s3
+The DRUGA-induced neuronal damage produced a tolerance to the disruptive effects of DRUGB and a supersensitivity to the disruptive effects of DRUGN in rats responding in a schedule controlled paradigm.
+MPTP	drug	amphetamine	drug
+true
+
+DDI-MedLine.d73.s3
+The DRUGN-induced neuronal damage produced a tolerance to the disruptive effects of DRUGA and a supersensitivity to the disruptive effects of DRUGB in rats responding in a schedule controlled paradigm.
+amphetamine	drug	apomorphine	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGA, DRUGN, DRUGN, and DRUGN (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGA, DRUGN, DRUGN, and DRUGN with DRUGN plus DRUGN) without receiving DRUGB therapy.
+cyclophosphamide	drug	antiretroviral	group
+false
+
+
+
+DDI-MedLine.d73.s3
+The DRUGA-induced neuronal damage produced a tolerance to the disruptive effects of DRUGN and a supersensitivity to the disruptive effects of DRUGB in rats responding in a schedule controlled paradigm.
+MPTP	drug	apomorphine	drug
+true
+
+DDI-MedLine.d73.s3
+The DRUGN-induced neuronal damage produced a tolerance to the disruptive effects of DRUGA and a supersensitivity to the disruptive effects of DRUGB in rats responding in a schedule controlled paradigm.
+amphetamine	drug	apomorphine	drug
+false
+
+DDI-MedLine.d38.s8
+However, DRUGA pretreatment did not affect any of the physiological, behavioral, or subjective effects of DRUGB.
+hydrocortisone	drug	d-amphetamine	drug
+false
+
+
+
+DDI-MedLine.d73.s4
+DRUGA, like DRUGN, produced depletions of striatal dopamine but these actions were potentiated by DRUGB pretreatment.
+Methamphetamine	drug	pargyline	drug
+true
+
+DDI-MedLine.d73.s4
+DRUGA, like DRUGB, produced depletions of striatal dopamine but these actions were potentiated by DRUGN pretreatment.
+Methamphetamine	drug	MPTP	drug_n
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGA, DRUGN/DRUGB, DRUGN/DRUGN, DRUGN/DRUGN, DRUGB/DRUGN, DRUGA/DRUGN, and DRUGN/DRUGN.
+theophylline	drug	quinidine	drug
+false
+
+
+
+DDI-MedLine.d12.s0
+DRUGA and DRUGN similarly inhibit and stimulate DRUGB- or DRUGN-induced proliferation of prostatic epithelium.
+Dexamethasone	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s0
+DRUGN and DRUGN similarly inhibit and stimulate DRUGA- or DRUGB-induced proliferation of prostatic epithelium.
+EGF	drug_n	insulin	drug
+false
+
+DDI-MedLine.d105.s9
+Based on the results of these studies, it is concluded that DRUGA may be safely coadministered with both DRUGB and DRUGN.
+azithromycin	drug	zidovudine	drug
+false
+
+
+
+DDI-MedLine.d12.s0
+DRUGA and DRUGN similarly inhibit and stimulate DRUGN- or DRUGB-induced proliferation of prostatic epithelium.
+Dexamethasone	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s0
+DRUGA and DRUGB similarly inhibit and stimulate DRUGN- or DRUGN-induced proliferation of prostatic epithelium.
+Dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d115.s5
+DRUGA regimens consisted of two DRUGN and one DRUGB.
+Antiretroviral	group	protease inhibitor	group
+false
+
+
+
+DDI-MedLine.d12.s0
+DRUGN and DRUGA similarly inhibit and stimulate DRUGB- or DRUGN-induced proliferation of prostatic epithelium.
+retinyl acetate	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s0
+DRUGN and DRUGN similarly inhibit and stimulate DRUGA- or DRUGB-induced proliferation of prostatic epithelium.
+EGF	drug_n	insulin	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGN, DRUGN/DRUGA, DRUGN/DRUGN, DRUGN/DRUGB, DRUGA/DRUGN, DRUGN/DRUGN, and DRUGB/DRUGN.
+quinidine	drug	valproic acid	drug
+false
+
+
+
+DDI-MedLine.d12.s0
+DRUGN and DRUGA similarly inhibit and stimulate DRUGN- or DRUGB-induced proliferation of prostatic epithelium.
+retinyl acetate	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s0
+DRUGN and DRUGN similarly inhibit and stimulate DRUGA- or DRUGB-induced proliferation of prostatic epithelium.
+EGF	drug_n	insulin	drug
+false
+
+DDI-MedLine.d119.s2
+It is structurally distinct from the other currently available DRUGN (DRUGA, DRUGB, and DRUGN), leading to unique biopharmaceutical properties relative to the other agents of this class.
+lovastatin	drug	simvastatin	drug
+false
+
+
+
+DDI-MedLine.d12.s2
+Although neither DRUGA nor DRUGN affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGN alone, they modify the mitogenic effect of DRUGB and DRUGN.
+dexamethasone	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGA affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGB alone, they modify the mitogenic effect of DRUGN and DRUGN.
+retinyl acetate	drug	transferrin	drug_n
+false
+
+DDI-MedLine.d106.s1
+The intensity, uniformity and time course of DRUGN interference by DRUGN, DRUGN, DRUGN, DRUGN and DRUGA were systematically investigated in 16 patients receiving DRUGB therapy.
+methaqualone	drug	coumarin	group
+false
+
+
+
+DDI-MedLine.d12.s2
+Although neither DRUGA nor DRUGN affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGN alone, they modify the mitogenic effect of DRUGN and DRUGB.
+dexamethasone	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGN affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGA alone, they modify the mitogenic effect of DRUGB and DRUGN.
+transferrin	drug_n	EGF	drug_n
+false
+
+DDI-MedLine.d5.s1
+Interactions between treatments with DRUGA, DRUGN (an DRUGB), DRUGN (an DRUGN), and DRUGN (an inducer of microsomal enzymes) were investigated in sheep.
+coumaphos	drug_n	anticoagulant	group
+false
+
+
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGA affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGN alone, they modify the mitogenic effect of DRUGB and DRUGN.
+retinyl acetate	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGA affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGB alone, they modify the mitogenic effect of DRUGN and DRUGN.
+retinyl acetate	drug	transferrin	drug_n
+false
+
+DDI-MedLine.d89.s1
+DRUGA is an DRUGB used to treat a wide variety of infections caused by gram-negative organisms, but it is potentially toxic to the kidneys.
+Gentamicin	drug	aminoglycoside antibiotic	group
+false
+
+
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGA affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGN alone, they modify the mitogenic effect of DRUGN and DRUGB.
+retinyl acetate	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s2
+Although neither DRUGA nor DRUGN affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGB alone, they modify the mitogenic effect of DRUGN and DRUGN.
+dexamethasone	drug	transferrin	drug_n
+false
+
+DDI-MedLine.d132.s5
+A smaller 24-week study has suggested DRUGA may be superior to the DRUGB DRUGN.
+nevirapine	drug	PI	group
+false
+
+
+
+DDI-MedLine.d12.s3
+DRUGA at 10(-10) M or DRUGN at about 3 X 10(-9) M inhibits proliferation stimulated by DRUGB.
+Dexamethasone	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s3
+DRUGA at 10(-10) M or DRUGB at about 3 X 10(-9) M inhibits proliferation stimulated by DRUGN.
+Dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d30.s11
+DRUGN reduced or eliminated the increases in FI responding produced by intermediate doses of either DRUGA or DRUGB in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of DRUGB or either stereoisomer of DRUGN.
+(+)-NANM	drug_n	PCP	drug_n
+false
+
+
+
+DDI-MedLine.d12.s3
+DRUGN at 10(-10) M or DRUGA at about 3 X 10(-9) M inhibits proliferation stimulated by DRUGB.
+retinyl acetate	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s3
+DRUGA at 10(-10) M or DRUGB at about 3 X 10(-9) M inhibits proliferation stimulated by DRUGN.
+Dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d20.s4
+The successive application of DRUGA (5 or 10 mg/kg egg weight (e.w.) and DRUGB (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of DRUGB alone.
+glycine	drug	glutamate	drug
+false
+
+
+
+DDI-MedLine.d12.s4
+Higher concentrations of DRUGA (10(-8) - 10(-6) M) or DRUGN (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of DRUGB.
+dexamethasone	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s4
+Higher concentrations of DRUGA (10(-8) - 10(-6) M) or DRUGB (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of DRUGN.
+dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d111.s2
+DRUGN, DRUGA, DRUGN, DRUGN, DRUGB, and DRUGN were added to pooled human serum at therapeutic concentrations.
+lidocaine	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d12.s4
+Higher concentrations of DRUGN (10(-8) - 10(-6) M) or DRUGA (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of DRUGB.
+retinyl acetate	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s4
+Higher concentrations of DRUGA (10(-8) - 10(-6) M) or DRUGB (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of DRUGN.
+dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d23.s2
+Ventricular tachycardia induced by DRUGN was generally converted to sinus rhythm following administration of DRUGA, DRUGN, or DRUGB but not after administration of DRUGN alone or after DRUGN.
+Innovar	brand	droperidol	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGN, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGB and DRUGN.
+dexamethasone	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGA, and possibly other DRUGN and DRUGB, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+retinyl acetate	drug	retinoids	group
+false
+
+DDI-MedLine.d60.s5
+The interaction may be a result of inhibition of both DRUGA and 2C19 by DRUGB.
+CYP2C9	drug	fluvoxamine	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGN, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGB.
+dexamethasone	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGN, and possibly other DRUGB and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+dexamethasone	drug	glucocorticoids	group
+false
+
+DDI-MedLine.d3.s4
+Cohort 1 then received DRUGA plus DRUGN for 10 days, and cohort 2 received DRUGA plus DRUGB for 4 days.
+amprenavir	drug	rifampin	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGA, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGB and DRUGN.
+retinyl acetate	drug	insulin	drug
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGN, and possibly other DRUGN and DRUGB, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+dexamethasone	drug	retinoids	group
+false
+
+DDI-MedLine.d12.s2
+Although neither DRUGN nor DRUGN affected the proliferation of prostatic epithelium in RPMI1640 containing DRUGA alone, they modify the mitogenic effect of DRUGB and DRUGN.
+transferrin	drug_n	EGF	drug_n
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGA, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGB.
+retinyl acetate	drug	EGF	drug_n
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGN, and possibly other DRUGB and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+dexamethasone	drug	glucocorticoids	group
+false
+
+DDI-MedLine.d58.s7
+These data suggest that DRUGN are negatively coupled to three types of calcium channels in bovine chromaffin cell, including an DRUGA-sensitive (N-type) channel, an DRUGN-sensitive (P-type) channel and DRUGN/DRUGA/DRUGB-resistant (presumptive Q-type) channel.
+omega-conotoxin GVIA	drug_n	omega-agatoxin VIA	drug_n
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGA and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGB and DRUGN.
+glucocorticoids	group	insulin	drug
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGA and DRUGB, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+glucocorticoids	group	retinoids	group
+false
+
+DDI-MedLine.d46.s15
+DRUGA was well tolerated when administered alone or with DRUGB.
+Cisapride	drug	fluoxetine	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGA and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGB.
+glucocorticoids	group	EGF	drug_n
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGA and DRUGB, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+dexamethasone	drug	retinyl acetate	drug
+false
+
+DDI-MedLine.d105.s0
+Lack of an effect of DRUGN on the disposition of DRUGA and DRUGB in HIV-infected patients.
+zidovudine	drug	dideoxyinosine	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGN and DRUGA, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGB and DRUGN.
+retinoids	group	insulin	drug
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGA, and possibly other DRUGB and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGN.
+retinyl acetate	drug	glucocorticoids	group
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGN, DRUGN/DRUGA, DRUGB/DRUGN, DRUGB/DRUGN, DRUGA/DRUGN, DRUGN/DRUGN, and DRUGN/DRUGB.
+quinidine	drug	phenobarbital	drug
+false
+
+
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGN and DRUGA, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGN and DRUGB.
+retinoids	group	EGF	drug_n
+true
+
+DDI-MedLine.d12.s7
+These results suggest that both DRUGN and DRUGN, and possibly other DRUGN and DRUGN, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of DRUGA and DRUGB.
+insulin	drug	EGF	drug_n
+false
+
+DDI-MedLine.d46.s1
+STUDY OBJECTIVE: To evaluate the effect of DRUGA on the pharmacokinetics and cardiovascular safety of DRUGB at steady state in healthy men.
+fluoxetine	drug	cisapride	drug
+false
+
+
+
+DDI-MedLine.d45.s5
+Twelve strains of Staphylococcus aureus (a frequent cause of infection in DRUGN, but not in DRUGA and DRUGB, addicts) were completely inhibited by the drug combination.
+pentazocine	drug	tripelennamine	drug
+true
+
+DDI-MedLine.d45.s5
+Twelve strains of Staphylococcus aureus (a frequent cause of infection in DRUGA, but not in DRUGB and DRUGN, addicts) were completely inhibited by the drug combination.
+heroin	drug_n	pentazocine	drug
+false
+
+DDI-MedLine.d132.s3
+No data from prospective clinical trials currently exist comparing the 3 approved agents (DRUGN, DRUGA or DRUGB).
+nevirapine	drug	delavirdine	drug
+false
+
+
+
+DDI-MedLine.d61.s9
+These alterations in DRUGA pharmacokinetics produced by DRUGB explain the increase in serum DRUGA level that has been observed when this drug combination has been used clinically.
+digoxin	drug	amiodarone	drug
+true
+
+DDI-MedLine.d61.s9
+These alterations in DRUGA pharmacokinetics produced by DRUGN explain the increase in serum DRUGA level that has been observed when this drug combination has been used clinically.
+digoxin	drug	digoxin	drug
+false
+
+DDI-MedLine.d132.s5
+A smaller 24-week study has suggested DRUGN may be superior to the DRUGA DRUGB.
+PI	group	nelfinavir	drug
+false
+
+
+
+DDI-MedLine.d30.s7
+In both species, DRUGA, but not DRUGN, antagonized the rate-decreasing effects of DRUGB on FI and FR responding.
+(-)-NANM	drug_n	morphine	drug
+true
+
+DDI-MedLine.d30.s7
+In both species, DRUGA, but not DRUGB, antagonized the rate-decreasing effects of DRUGN on FI and FR responding.
+(-)-NANM	drug_n	(+)-NANM	drug_n
+false
+
+DDI-MedLine.d83.s11
+In addition, DRUGN is not associated with a risk of agranulocytosis as seen with DRUGA or clinically significant hyperprolactinaemia as seen with DRUGB or prolongation of the QT interval.
+clozapine	drug	risperidone	drug
+false
+
+
+
+DDI-MedLine.d30.s8
+In monkeys, the effects of DRUGA, but not DRUGN or DRUGN, were antagonized by DRUGB;
+(-)-NANM	drug_n	naloxone	drug
+true
+
+DDI-MedLine.d30.s8
+In monkeys, the effects of DRUGN, but not DRUGN or DRUGA, were antagonized by DRUGB;
+PCP	drug_n	naloxone	drug
+false
+
+DDI-MedLine.d61.s3
+The pharmacokinetic variables for DRUGA were determined after a 1.0 mg intravenous dose of DRUGA in each subject, before and after oral DRUGB, 400 mg daily for 3 weeks.
+digoxin	drug	amiodarone	drug
+false
+
+
+
+DDI-MedLine.d30.s9
+the doses of DRUGA required to antagonize the effects of DRUGB were more than 100 times higher than those required to antagonize the effects of DRUGN.
+naloxone	drug	(-)-NANM	drug_n
+true
+
+DDI-MedLine.d30.s9
+the doses of DRUGN required to antagonize the effects of DRUGA were more than 100 times higher than those required to antagonize the effects of DRUGB.
+(-)-NANM	drug_n	morphine	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGA, DRUGN/DRUGN, DRUGN/DRUGN, DRUGN/DRUGB, DRUGN/DRUGN, DRUGA/DRUGN, and DRUGB/DRUGN.
+theophylline	drug	valproic acid	drug
+false
+
+
+
+DDI-MedLine.d30.s9
+the doses of DRUGA required to antagonize the effects of DRUGN were more than 100 times higher than those required to antagonize the effects of DRUGB.
+naloxone	drug	morphine	drug
+true
+
+DDI-MedLine.d30.s9
+the doses of DRUGN required to antagonize the effects of DRUGA were more than 100 times higher than those required to antagonize the effects of DRUGB.
+(-)-NANM	drug_n	morphine	drug
+false
+
+DDI-MedLine.d110.s2
+Like DRUGN (40 mg/kg), DRUGA (40 mg/kg) decreases the intravenous self-administration of DRUGN and DRUGN and the oral self-administration of DRUGN and DRUGB in rats;
+18-MC	drug_n	nicotine	drug
+false
+
+
+
+DDI-MedLine.d30.s11
+DRUGA reduced or eliminated the increases in FI responding produced by intermediate doses of either DRUGB or DRUGN in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of DRUGN or either stereoisomer of DRUGN.
+Haloperidol	drug	(+)-NANM	drug_n
+true
+
+DDI-MedLine.d30.s11
+DRUGA reduced or eliminated the increases in FI responding produced by intermediate doses of either (+)-DRUGB or DRUGN in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of DRUGN or either stereoisomer of DRUGB.
+Haloperidol	drug	NANM	drug_n
+false
+
+DDI-MedLine.d94.s11
+The EC50 values for DRUGA, which is not a substrate for DRUGB uptake-1, were reduced in myocardium in functional classes II to III and IV compared with those in nonfailing myocardium.
+isoproterenol	drug	norepinephrine	drug
+false
+
+
+
+DDI-MedLine.d30.s11
+DRUGA reduced or eliminated the increases in FI responding produced by intermediate doses of either DRUGN or DRUGB in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of DRUGB or either stereoisomer of DRUGN.
+Haloperidol	drug	PCP	drug_n
+true
+
+DDI-MedLine.d30.s11
+DRUGA reduced or eliminated the increases in FI responding produced by intermediate doses of either (+)-DRUGB or DRUGN in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of DRUGN or either stereoisomer of DRUGB.
+Haloperidol	drug	NANM	drug_n
+false
+
+DDI-MedLine.d27.s0
+[The GABA-ergic system and brain edema]
+It has been shown in rats with experimental toxic and traumatic edemas that DRUGN (1 mg/kg) removes the antiedematous action of DRUGA, DRUGB, DRUGN and DRUGN and reduces the action of DRUGN.
+diazepam	drug	phenazepam	drug_n
+false
+
+
+
+DDI-MedLine.d2.s1
+Studies in rats have shown that DRUGA administration attenuates certain types of DRUGN dependent hypertension, including DRUGB hypertension.
+neomycin	drug	ACTH	drug
+true
+
+DDI-MedLine.d2.s1
+Studies in rats have shown that DRUGN administration attenuates certain types of DRUGA dependent hypertension, including DRUGB hypertension.
+adrenocortical steroid	group	ACTH	drug
+false
+
+DDI-MedLine.d119.s18
+Moreover, additional interaction studies with DRUGA and DRUGB have not demonstrated any effect on DRUGN plasma levels, and administration to a patient population chronically receiving DRUGN resulted in no difference in the extent of bioavailability of DRUGN relative to control data.
+niacin	drug	propranolol	drug
+false
+
+
+
+DDI-MedLine.d54.s8
+DRUGA pretreatment augmented the depressant effect of DRUGB on the early components P1 and N1, while attenuating DRUGB's influence on components P2 and P3.
+Physostigmine	drug	alcohol	drug
+true
+
+DDI-MedLine.d54.s8
+DRUGN pretreatment augmented the depressant effect of DRUGA on the early components P1 and N1, while attenuating DRUGA's influence on components P2 and P3.
+alcohol	drug	alcohol	drug
+false
+
+DDI-MedLine.d75.s3
+The percentage of neurons hyperpolarized by DRUGA, DRUGN, and DRUGB was significantly reduced when 1% but not <
+mu-selective opioids	group	kappa-selective opioids	group
+false
+
+
+
+DDI-MedLine.d54.s8
+DRUGA pretreatment augmented the depressant effect of DRUGB on the early components P1 and N1, while attenuating DRUGB's influence on components P2 and P3.
+Physostigmine	drug	alcohol	drug
+true
+
+DDI-MedLine.d54.s8
+DRUGN pretreatment augmented the depressant effect of DRUGA on the early components P1 and N1, while attenuating DRUGA's influence on components P2 and P3.
+alcohol	drug	alcohol	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGN, DRUGA, DRUGN, and DRUGB (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGN, DRUGA, DRUGN, and DRUGB with DRUGN plus DRUGN) without receiving DRUGN therapy.
+doxorubicin	drug	prednisone	drug
+false
+
+
+
+DDI-MedLine.d81.s2
+Core temperature was decreased in rats in a dose-dependent manner when DRUGA was administered to rats treated with DRUGB 8 hours before the DRUGA challenge.
+ethanol	drug	disulfiram	drug
+true
+
+DDI-MedLine.d81.s2
+Core temperature was decreased in rats in a dose-dependent manner when DRUGA was administered to rats treated with DRUGN 8 hours before the DRUGA challenge.
+ethanol	drug	ethanol	drug
+false
+
+DDI-MedLine.d15.s0
+[Stimulation by DRUGN--an analog of the octapeptide cholecystokinin--of DRUGN binding after the long-term administration of DRUGN]
+It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of DRUGN (0.25 mg/kg) and DRUGA (0.25 mg/kg) resulted in the reduced interaction between DRUGN and low affinity binding sites for DRUGB in subcortical structures, whereas DRUGN binding with high affinity binding sites for DRUGB increased both in the frontal cortex and subcortical structures of the forebrain.
+pyreneperone	drug_n	apomorphine	drug
+false
+
+
+
+DDI-MedLine.d131.s0
+Interaction on the antinociceptive effect between DRUGA and DRUGB or DRUGN.
+neurotensin	drug_n	enkephalins	drug_n
+true
+
+DDI-MedLine.d131.s0
+Interaction on the antinociceptive effect between DRUGN and DRUGA or DRUGB.
+enkephalins	drug_n	tuftsin	drug_n
+false
+
+DDI-MedLine.d111.s14
+Coingestion of DRUGA with DRUGN, DRUGB with DRUGA, and DRUGN with DRUGB at high to toxic concentrations decreases the binding of the target drug.
+acetaminophen	drug	phenobarbital	drug
+false
+
+
+
+DDI-MedLine.d131.s0
+Interaction on the antinociceptive effect between DRUGA and DRUGN or DRUGB.
+neurotensin	drug_n	tuftsin	drug_n
+true
+
+DDI-MedLine.d131.s0
+Interaction on the antinociceptive effect between DRUGN and DRUGA or DRUGB.
+enkephalins	drug_n	tuftsin	drug_n
+false
+
+DDI-MedLine.d76.s1
+The purpose of this study was to evaluate the effect of DRUGN (DRUGN) and DRUGN (DRUGN) conjugates on the intestinal permeation of DRUGA (DRUGN) and model peptide drugs, DRUGB and DRUGN.
+sodium fluorescein	drug	bacitracin	drug
+false
+
+
+
+DDI-MedLine.d34.s7
+Additional DRUGA significantly inhibited the absorption of DRUGB in both dietary DRUGB treatments.
+iron	drug	cobalt	drug
+true
+
+DDI-MedLine.d34.s7
+Additional DRUGN significantly inhibited the absorption of DRUGA in both dietary DRUGA treatments.
+cobalt	drug	cobalt	drug
+false
+
+DDI-MedLine.d5.s1
+Interactions between treatments with DRUGA, DRUGN (an DRUGN), DRUGB (an DRUGN), and DRUGN (an inducer of microsomal enzymes) were investigated in sheep.
+coumaphos	drug_n	trichlorfon	drug_n
+false
+
+
+
+DDI-MedLine.d34.s7
+Additional DRUGA significantly inhibited the absorption of DRUGB in both dietary DRUGB treatments.
+iron	drug	cobalt	drug
+true
+
+DDI-MedLine.d34.s7
+Additional DRUGN significantly inhibited the absorption of DRUGA in both dietary DRUGA treatments.
+cobalt	drug	cobalt	drug
+false
+
+DDI-MedLine.d81.s2
+Core temperature was decreased in rats in a dose-dependent manner when DRUGB was administered to rats treated with DRUGA 8 hours before the DRUGB challenge.
+disulfiram	drug	ethanol	drug
+false
+
+
+
+DDI-MedLine.d34.s8
+The lower rate of absorption in the groups receiving 446 mg DRUGA instead of 48 mg of DRUGA per kg diet resulted in a decreased renal excretion of DRUGB.
+Fe	drug	cobalt	drug
+true
+
+DDI-MedLine.d34.s8
+The lower rate of absorption in the groups receiving 446 mg DRUGA instead of 48 mg of DRUGA per kg diet resulted in a decreased renal excretion of DRUGB.
+Fe	drug	cobalt	drug
+false
+
+DDI-MedLine.d133.s1
+BACKGROUND: The effects of combined administration of DRUGN and DRUGN (DRUGN), a DRUGN, on the incidence of peritoneal metastasis of intestinal adenocarcinomas induced by DRUGA (DRUGB) and the labeling index of intestinal cancers were investigated in male Wistar rats.
+azoxymethane	drug_n	AOM	drug_n
+false
+
+
+
+DDI-MedLine.d39.s2
+Injection of DRUGA 5 min before a nonlethal dose of DRUGB changed the serum sex steroid hormone response of male rats to DRUGB.
+estradiol	drug	endotoxin	drug_n
+true
+
+DDI-MedLine.d39.s2
+Injection of DRUGN 5 min before a nonlethal dose of DRUGA changed the serum sex steroid hormone response of male rats to DRUGA.
+endotoxin	drug_n	endotoxin	drug_n
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGA, DRUGN, DRUGN, and DRUGN (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGA, DRUGN, DRUGB, and DRUGN with DRUGN plus DRUGN) without receiving DRUGN therapy.
+cyclophosphamide	drug	teniposide	drug
+false
+
+
+
+DDI-MedLine.d39.s3
+The serum estrogen concentrations of DRUGA + DRUGB-treated rats decreased by 50%, while those of the DRUGB-treated rats increased (2- to 5-fold).
+estradiol	drug	endotoxin	drug_n
+true
+
+DDI-MedLine.d39.s3
+The serum estrogen concentrations of DRUGN + DRUGA-treated rats decreased by 50%, while those of the DRUGA-treated rats increased (2- to 5-fold).
+endotoxin	drug_n	endotoxin	drug_n
+false
+
+DDI-MedLine.d111.s2
+DRUGN, DRUGA, DRUGN, DRUGB, DRUGN, and DRUGN were added to pooled human serum at therapeutic concentrations.
+lidocaine	drug	quinidine	drug
+false
+
+
+
+DDI-MedLine.d128.s13
+DRUGA and DRUGN (0.1 and 1.0 mg/kg, s.c.) inhibited the DRUGB (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+Loperamide	drug	dmPGE2	drug_n
+true
+
+DDI-MedLine.d128.s13
+DRUGA and DRUGB (0.1 and 1.0 mg/kg, s.c.) inhibited the DRUGN (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+Loperamide	drug	morphine	drug
+false
+
+DDI-MedLine.d67.s0
+Effect of DRUGA and DRUGN on the antinociceptive effect of DRUGB, DRUGN and DRUGN in mice.
+diazepam	drug	morphine	drug
+false
+
+
+
+DDI-MedLine.d128.s13
+DRUGN and DRUGA (0.1 and 1.0 mg/kg, s.c.) inhibited the DRUGB (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+morphine	drug	dmPGE2	drug_n
+true
+
+DDI-MedLine.d128.s13
+DRUGA and DRUGB (0.1 and 1.0 mg/kg, s.c.) inhibited the DRUGN (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+Loperamide	drug	morphine	drug
+false
+
+DDI-MedLine.d74.s2
+To study the pancreatic effects of other agents, dynamic insulin and glucagon release was measured from the in vitro perfused pancreases of normal and diabetic Chinese hamsters in response to various combinations of DRUGA (20mM), DRUGB (100 or 150 mg. per 100 ml.), and DRUGN (10 mM).
+arginine	drug	glucose	drug
+false
+
+
+
+DDI-MedLine.d128.s15
+DRUGA (5 mg/kg, s.c.) completely antagonized the inhibitory effect of DRUGB and partly antagonized the effect of DRUGN.
+N-methyllevallorphan	drug_n	loperamide	drug
+true
+
+DDI-MedLine.d128.s15
+DRUGN (5 mg/kg, s.c.) completely antagonized the inhibitory effect of DRUGA and partly antagonized the effect of DRUGB.
+loperamide	drug	morphine	drug
+false
+
+DDI-MedLine.d106.s9
+It is concluded that DRUGN and DRUGA may be administered safely without additional caution in prothrombin test monitoring during oral DRUGB therapy.
+methaqualone	drug	anticoagulant	group
+false
+
+
+
+DDI-MedLine.d128.s15
+DRUGA (5 mg/kg, s.c.) completely antagonized the inhibitory effect of DRUGN and partly antagonized the effect of DRUGB.
+N-methyllevallorphan	drug_n	morphine	drug
+true
+
+DDI-MedLine.d128.s15
+DRUGN (5 mg/kg, s.c.) completely antagonized the inhibitory effect of DRUGA and partly antagonized the effect of DRUGB.
+loperamide	drug	morphine	drug
+false
+
+DDI-MedLine.d115.s2
+To evaluate the impact of chemotherapy plus HAART on the clinical course of patients with HIV-related, systemic, non-Hodgkin lymphoma (HIV-NHL), the authors compared retrospectively a group of 24 patients with HIV-NHL who were treated with the DRUGA, DRUGN, DRUGN, and DRUGB (CHOP) chemotherapy regimen plus HAART with a group of 80 patients who were treated with CHOP chemotherapy or a CHOP-like regimen (i.e., DRUGA, DRUGN, DRUGN, and DRUGB with DRUGN plus DRUGN) without receiving DRUGN therapy.
+cyclophosphamide	drug	prednisone	drug
+false
+
+
+
+DDI-MedLine.d51.s3
+The anxiogenic effects of DRUGA were reduced by pretreatment with DRUGB, an A2-selective agonist, but not by DRUGN (DRUGN), an A1-selective agonist.
+theophylline	drug	CGS 21680	drug_n
+true
+
+DDI-MedLine.d51.s3
+The anxiogenic effects of DRUGN were reduced by pretreatment with DRUGA, an A2-selective agonist, but not by DRUGN (DRUGB), an A1-selective agonist.
+CGS 21680	drug_n	CPA	drug_n
+false
+
+DDI-MedLine.d127.s6
+Concomitantly given DRUGA did not interfere with the absorption of a tablet of DRUGB.
+thiazide diuretics	group	digoxin	drug
+false
+
+
+
+DDI-MedLine.d51.s4
+However, the antagonism of the DRUGA-induced anxiogenic effects by DRUGB was only observed in the time spent in the light zone, and DRUGN-induced anxiogenic effects were neither reversed by DRUGN nor by DRUGN.
+theophylline	drug	CGS21680	drug_n
+true
+
+DDI-MedLine.d51.s4
+However, the antagonism of the DRUGN-induced anxiogenic effects by DRUGN was only observed in the time spent in the light zone, and DRUGN-induced anxiogenic effects were neither reversed by DRUGA nor by DRUGB.
+CGS 21680	drug	CPA	drug_n
+false
+
+DDI-MedLine.d76.s9
+Formulation of fluorescence labelled DRUGA and DRUGN in unconjugated DRUGN (1% m/v) did not significantly improve the permeation, however in the presence of 1% (m/v) DRUGB7.3 a significantly improved permeation was observed (R= 1.3).
+bacitracin	drug	CMC-Cys	drug_n
+false
+
+
+
+DDI-MedLine.d68.s0
+[The effect of DRUGA on the renal excretion of DRUGN and DRUGN in dogs]
+The intravenous injection of DRUGA in a dose of 20 mg/kg enhanced DRUGB and DRUGN excretion in chronic canine experiments.
+cimetidine	drug	verografine	drug
+true
+
+DDI-MedLine.d68.s0
+[The effect of DRUGN on the renal excretion of DRUGA and DRUGB in dogs]
+The intravenous injection of DRUGN in a dose of 20 mg/kg enhanced DRUGAe and DRUGB excretion in chronic canine experiments.
+verografin	drug	iodamide	drug
+false
+
+DDI-MedLine.d111.s5
+DRUGN/DRUGB, DRUGN/DRUGN, DRUGA/DRUGN, DRUGA/DRUGN, DRUGN/DRUGN, DRUGB/DRUGN, and DRUGN/DRUGA.
+phenobarbital	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d68.s0
+[The effect of DRUGA on the renal excretion of DRUGN and DRUGB in dogs]
+The intravenous injection of DRUGA in a dose of 20 mg/kg enhanced DRUGN and DRUGB excretion in chronic canine experiments.
+cimetidine	drug	iodamide	drug
+true
+
+DDI-MedLine.d68.s0
+[The effect of DRUGN on the renal excretion of DRUGN and DRUGB in dogs]
+The intravenous injection of DRUGN in a dose of 20 mg/kg enhanced DRUGA and DRUGB excretion in chronic canine experiments.
+verografine	drug	iodamide	drug
+false
+
+DDI-MedLine.d105.s0
+Lack of an effect of DRUGA on the disposition of DRUGN and DRUGB in HIV-infected patients.
+azithromycin	drug	dideoxyinosine	drug
+false
+
+
+
+DDI-MedLine.d20.s4
+The successive application of DRUGA (5 or 10 mg/kg egg weight (e.w.) and DRUGB (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of DRUGB alone.
+glycine	drug	glutamate	drug
+true
+
+DDI-MedLine.d20.s4
+The successive application of DRUGA (5 or 10 mg/kg egg weight (e.w.) and DRUGB (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of DRUGB alone.
+glycine	drug	glutamate	drug
+false
+
+DDI-MedLine.d74.s5
+DRUGN, in the presence of DRUGA and DRUGB, caused excessive glucagon release but nearly normal insulin release in the diabetics.
+glucose	drug	theophylline	drug
+false
+
+
+
+DDI-MedLine.d94.s12
+The uptake inhibitors DRUGA and DRUGN (3 mumol/liter) potentiated the positive inotropic effects of DRUGB in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+cocaine	drug	norepinephrine	drug
+true
+
+DDI-MedLine.d94.s12
+The uptake inhibitors DRUGA and DRUGB (3 mumol/liter) potentiated the positive inotropic effects of DRUGN in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+cocaine	drug	desipramine	drug
+false
+
+DDI-MedLine.d76.s1
+The purpose of this study was to evaluate the effect of DRUGN (DRUGN) and DRUGN (DRUGA) conjugates on the intestinal permeation of DRUGN (DRUGB) and model peptide drugs, DRUGN and DRUGN.
+CMC-Cys	drug_n	NaFlu	drug
+false
+
+
+
+DDI-MedLine.d94.s12
+The uptake inhibitors DRUGN and DRUGA (3 mumol/liter) potentiated the positive inotropic effects of DRUGB in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+desipramine	drug	norepinephrine	drug
+true
+
+DDI-MedLine.d94.s12
+The uptake inhibitors DRUGA and DRUGB (3 mumol/liter) potentiated the positive inotropic effects of DRUGN in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+cocaine	drug	desipramine	drug
+false
+
+DDI-MedLine.d58.s3
+In this study we investigated the effect of DRUGN on high threshold voltage-dependent Ca(2+) channel subtypes using their DRUGA DRUGB (L-type), DRUGN (N-type), or DRUGN (P-type) in bovine chromaffin cells.
+selective Ca(2+) channel blockers	group	nimodipine	drug
+false
+
+
+
+DDI-MedLine.d90.s7
+Recovery of hoof twitch from 50% to 75% took 7.7 +/- 0.7 min for DRUGA alone and 11.5 +/- 2.7 min for DRUGA plus DRUGB (P = 0.03).
+atracurium	drug	gentamycin	drug
+true
+
+DDI-MedLine.d90.s7
+Recovery of hoof twitch from 50% to 75% took 7.7 +/- 0.7 min for DRUGA alone and 11.5 +/- 2.7 min for DRUGA plus DRUGB (P = 0.03).
+atracurium	drug	gentamycin	drug
+false
+
+DDI-MedLine.d113.s1
+The DRUGA are a family of DRUGN and DRUGB.
+benzodiazepines	group	hypnotic drugs	group
+false
+
+
+
+DDI-MedLine.d90.s8
+Recovery from 50% twitch to 75% fade recovery took 13.8 +/- 0.8 min for DRUGA alone and 13.7 +/- 1.2 min for DRUGA plus DRUGB.
+atracurium	drug	gentamycin	drug
+true
+
+DDI-MedLine.d90.s8
+Recovery from 50% twitch to 75% fade recovery took 13.8 +/- 0.8 min for DRUGA alone and 13.7 +/- 1.2 min for DRUGA plus DRUGB.
+atracurium	drug	gentamycin	drug
+false
+
+DDI-MedLine.d83.s19
+The reduced risk of adverse events and therapeutic superiority compared with DRUGN and DRUGA in the treatment of negative and depressive symptoms support the choice of DRUGB as a first-line option in the management of schizophrenia in the acute phase and for the maintenance of treatment response.
+risperidone	drug	olanzapine	drug
+false
+
+
+
+DDI-MedLine.d90.s9
+At 75% recovery of fade, hoof twitch was 87 +/- 3% for DRUGA alone and 82 +/- 4% for DRUGA plus DRUGB.
+atracurium	drug	gentamycin	drug
+true
+
+DDI-MedLine.d90.s9
+At 75% recovery of fade, hoof twitch was 87 +/- 3% for DRUGA alone and 82 +/- 4% for DRUGA plus DRUGB.
+atracurium	drug	gentamycin	drug
+false
+
+DDI-MedLine.d67.s1
+The influence of DRUGN and DRUGN on antinociceptive effect of DRUGA (10 mg/kg), DRUGB (500 mg/kg) and DRUGN (10 mg/kg) was investigated in a mouse model using the tail-flick and hot-plate tests.
+morphine	drug	metamizol	drug
+false
+
+
+
+DDI-MedLine.d113.s3
+In addition to this pharmacological interaction, this report describes a novel chemical reaction between DRUGA (a DRUGN) and DRUGB under acidic conditions similar to those found in vivo, resulting in a 3-ethoxylated product.
+temazepam	drug	ethanol	drug
+true
+
+DDI-MedLine.d113.s3
+In addition to this pharmacological interaction, this report describes a novel chemical reaction between DRUGN (a DRUGA) and DRUGB under acidic conditions similar to those found in vivo, resulting in a 3-ethoxylated product.
+benzodiazepine	group	ethanol	drug
+false
+
+DDI-MedLine.d5.s0
+Repeated oral administration of DRUGN in sheep: interactions of DRUGN with DRUGA, DRUGB, and DRUGN.
+bishydroxycoumarin	drug	trichlorfon	drug_n
+false
+
+
+
