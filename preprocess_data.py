@@ -4,7 +4,7 @@ import pickle
 import os
 
 ###################3
-调试用
+#调试用
 ##################3
 
 # convert xml file to txt file

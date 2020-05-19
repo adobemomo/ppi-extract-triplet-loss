@@ -29,7 +29,7 @@ def generate_triplet(step1_data, neg_samples):
         for p in pair:
             ddi = p[2]
             if ddi == 'false':
-                homo_negs.append(samplize(sid, sent, p, e_dict))
+                homo_negs.append(samplize_ddi(sid, sent, p, e_dict))
 
         for p in pair:
             d1, d1_type, d1_offset = p[0]
@@ -42,7 +42,7 @@ def generate_triplet(step1_data, neg_samples):
             # <pos, homo_neg, non_homo_neg>
             if ddi == 'true' and len(homo_negs) > 0:
                 # generate pos
-                pos = samplize(sid, sent, p, e_dict)
+                pos = samplize_ddi(sid, sent, p, e_dict)
                 # generate homo_neg
                 index = random.randint(0, len(homo_negs)-1)
                 homo_neg = homo_negs[index]

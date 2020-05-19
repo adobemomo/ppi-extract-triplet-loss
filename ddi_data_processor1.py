@@ -4,10 +4,10 @@
 # pair_list: [entity1, entity2, ddi]
 # ddi: true/false
 
-import random
-import xml.etree.ElementTree as ET
-import pickle
 import os
+import pickle
+import xml.etree.ElementTree as ET
+
 from utils import *
 
 
@@ -50,11 +50,10 @@ def read_ddi_xml(dir):
     return data
 
 
-ddi_xml_dir = 'corpus/ddi_corpus'
+ddi_xml_dir = 'corpus/ppi_corpus'
 ddi_step1_txt = 'dataset/ddi_data/step1/train.txt'
 ddi_step1_pickle = 'dataset/ddi_data/step1/train.pickle'
 ddi_data = read_ddi_xml(ddi_xml_dir)
 write_step1_data_as_txt(ddi_data, ddi_step1_txt)
 pickle.dump(ddi_data, open(ddi_step1_pickle, 'wb'))
 # print(pickle.load(open(ddi_step1_pickle, 'rb')))
-
